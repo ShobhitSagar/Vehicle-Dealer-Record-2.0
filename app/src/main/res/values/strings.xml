@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vehicle Dealer Record 2.0</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Vehicle Dealer\nRecord 2.0</string>
+</resources>
