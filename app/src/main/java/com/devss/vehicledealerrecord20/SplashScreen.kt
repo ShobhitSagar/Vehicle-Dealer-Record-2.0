@@ -1,11 +1,10 @@
-package com.example.vehicledealerrecord20
+package com.devss.vehicledealerrecord20
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.view.WindowManager
-import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_splash_screen.*
 
 class SplashScreen : AppCompatActivity() {

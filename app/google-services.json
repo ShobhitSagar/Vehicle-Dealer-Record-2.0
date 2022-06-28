@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "990410358735",
+    "firebase_url": "https://vehicle-sell-purchase.firebaseio.com",
+    "project_id": "vehicle-sell-purchase",
+    "storage_bucket": "vehicle-sell-purchase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990410358735:android:9528074db7b413b7b59cba",
+        "android_client_info": {
+          "package_name": "com.devss.vehicledealerrecord20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990410358735-prnv7p72hi29u5n7h10p9frjn6c35l2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devss.vehicledealerrecord20",
+            "certificate_hash": "f0dbd9dc72fec5b4fa28bb1ea68b0747411a4a74"
+          }
+        },
+        {
+          "client_id": "990410358735-o06cf054hm9s8q0skhd62suilbe83986.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMq3DwPU6wLfDedhjxdIIuUHF0iYP0lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990410358735-o06cf054hm9s8q0skhd62suilbe83986.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990410358735:android:f2a5fe36dfb17a43b59cba",
+        "android_client_info": {
+          "package_name": "com.devss.vehiclesellpurchase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990410358735-c35e8s36ogpkplaeofjn5csjoaoch4sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devss.vehiclesellpurchase",
+            "certificate_hash": "60d9e82f320ab4e9eba618679032632ca58d211c"
+          }
+        },
+        {
+          "client_id": "990410358735-vu1lptlqh1d00va274hjuomt1f7h148m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devss.vehiclesellpurchase",
+            "certificate_hash": "fc2df4a65a1367b8e519b2ac90bd8d98758b65fc"
+          }
+        },
+        {
+          "client_id": "990410358735-o06cf054hm9s8q0skhd62suilbe83986.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMq3DwPU6wLfDedhjxdIIuUHF0iYP0lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990410358735-o06cf054hm9s8q0skhd62suilbe83986.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

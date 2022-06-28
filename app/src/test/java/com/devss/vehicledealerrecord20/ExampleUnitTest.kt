@@ -1,4 +1,4 @@
-package com.example.vehicledealerrecord20
+package com.devss.vehicledealerrecord20
 
 import org.junit.Test
 

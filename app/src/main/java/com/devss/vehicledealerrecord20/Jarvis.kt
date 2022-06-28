@@ -1,10 +1,11 @@
-package com.example.vehicledealerrecord20
+package com.devss.vehicledealerrecord20
 
 import android.app.Activity
 import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkInfo
 import android.view.View
+import android.widget.Toast
 import androidx.core.app.ActivityCompat.recreate
 import com.google.android.material.snackbar.Snackbar
 
@@ -27,6 +28,14 @@ class Jarvis {
             recreate(activity)
         }
         snackbar.show()
+    }
+
+    fun showShortToast(activity: Activity, msg: String) {
+        Toast.makeText(activity, msg, Toast.LENGTH_SHORT).show()
+    }
+
+    fun showLongToast(activity: Activity, msg: String) {
+        Toast.makeText(activity, msg, Toast.LENGTH_LONG).show()
     }
 
 }
